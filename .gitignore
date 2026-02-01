@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (avoid uploading huge raw data)
+data/raw/
+*.csv
+*.xlsx
+
+# Environment
+venv/
+.env
